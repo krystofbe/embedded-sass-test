@@ -1,0 +1,23 @@
+{
+  "name": "sass-loader-bug",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.6.0",
+    "mini-css-extract-plugin": "^2.5.3",
+    "sass-embedded": "^1.49.7",
+    "sass-loader": "^12.6.0",
+    "webpack": "^5.69.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.4.1"
+  }
+}
