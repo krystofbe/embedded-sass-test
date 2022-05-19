@@ -1,2 +1,2 @@
 
-`npm install` and `npm run build` to see the error. Using `sass` implementation all works fine.
+Run `docker build .` to see the error. Using `sass` implementation all works fine.
