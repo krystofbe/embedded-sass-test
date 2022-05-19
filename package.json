@@ -10,14 +10,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "css-loader": "^6.6.0",
-    "mini-css-extract-plugin": "^2.5.3",
-    "sass-embedded": "^1.49.7",
-    "sass-loader": "^12.6.0",
-    "webpack": "^5.69.0",
+    "css-loader": "^6.7.1",
+    "mini-css-extract-plugin": "^2.6.0",
+    "sass-embedded": "^1.51.0",
+    "sass-loader": "^13.0.0",
+    "webpack": "^5.72.1",
     "webpack-cli": "^4.9.2"
   },
   "dependencies": {
-    "bootstrap-sass": "^3.4.1"
+    "bootstrap-sass": "^3.4.3",
+    "yarn-upgrade-all": "^0.7.1"
   }
 }
